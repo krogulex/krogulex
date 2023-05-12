@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3> 
 <p align="left"> 
  
- <a href="#"><img align="left" title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img  align="left" title="SASS" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img  align="left" title="SASS" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img  align="left" title="React" alt="react" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
-<img  alt="Figma" title="Figma" alt="Figma" width="40px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+<img  alt="Figma" title="Figma" alt="Figma" width="40px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" />
  </p>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krogulex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
