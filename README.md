@@ -1,18 +1,18 @@
 ## Hi👋
 ## My name is Maciej Krogulski, I'm Front End Developer
 
-🌟 About Me:
+<h3>🌟 About Me:</h3>
 I embarked on my front-end development journey just a year ago, and ever since then, I've been hooked. The world of web development fascinates me, and I love the process of turning ideas into beautiful, functional websites. With a strong foundation in HTML, CSS, and JavaScript, I'm constantly expanding my skill set and staying up-to-date with the latest trends and technologies.
 
-🚀 currently learning: <strong>node.js</strong>
+<h3>🚀 currently learning: <strong>node.js</strong></h3>
 I'm Exploring the endless possibilities of Node.js to become <strong>full stack developer</strong>
 
-📫 Let's Connect:
+ <h3>📫 Let's Connect:</h3>
 If you're looking for a dedicated front-end developer with a passion for creating seamless user experiences, I'd love to hear from you. Feel free to reach out to me through my GitHub or connect with me on 
 <a href="https://www.linkedin.com/in/maciej-krogulski-b9ab4b216/"><img align="left" title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" /> LinkedIN</a   .
 
 
-🌱  My Journey:
+<h3>🌱  My Journey:</h3>
 Throughout my learning journey, I've tackled various projects that have honed my skills and allowed me to gain practical experience. I've worked on diverse projects, from simple applications to more complex apps, and I always strive for clean code and best practices. 
 
 <h3 align="left">Languages and Tools:</h3> 
