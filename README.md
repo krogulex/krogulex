@@ -1,4 +1,4 @@
-### Hi👋
+## Hi👋
 ## My name is Maciej Krogulski, I'm Front End Developer
 <!--
 **krogulex/krogulex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
