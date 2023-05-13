@@ -28,16 +28,3 @@ Throughout my learning journey, I've tackled various projects that have honed my
  </p>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krogulex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-        .hi {
-          animation: hi 1.5s linear -0.5s infinite;
-          display: inline-block;
-          transform-origin: 70% 70%;
-        }
-
-        @media (prefers-reduced-motion) {
-          .hi {
-            animation: none;
-          }
-        }
-      </style>
