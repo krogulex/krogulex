@@ -27,4 +27,6 @@ Throughout my learning journey, I've tackled various projects that have honed my
 <img  alt="Figma" title="Figma" alt="Figma" width="40px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" />
  </p>
  
+ 
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krogulex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
