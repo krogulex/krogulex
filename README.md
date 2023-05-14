@@ -7,7 +7,7 @@ I embarked on my front-end development journey just a year ago, and ever since t
 <h3>🚀 Currently learning: <strong>node.js</strong></h3>
 I'm Exploring the endless possibilities of Node.js to become <strong>full stack developer</strong>
 
- <h3>📫 Let's Connect: <a style="margin-left: 7px" href="https://www.linkedin.com/in/maciej-krogulski-b9ab4b216/"><img style="margin-right: 7px" title="HTML5" alt="HTML5" width="16px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Linkedin.png" /> LinkedIN</a>.</h3>
+ <h3>📫 Let's Connect: <a style="margin-left: 7px" href="https://www.linkedin.com/in/maciej-krogulski-b9ab4b216/"><img style="margin-right: 7px" title="HTML5" alt="HTML5" width="16px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" /> LinkedIN</a>.</h3>
 If you're looking for a dedicated front-end developer with a passion for creating seamless user experiences, I'd love to hear from you. Feel free to reach out to me through my GitHub or connect with me on 
 <a style="margin-left: 7px" href="https://www.linkedin.com/in/maciej-krogulski-b9ab4b216/"><img style="margin-right: 7px" title="HTML5" alt="HTML5" width="16px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" /> Linkedin</a>.
 
