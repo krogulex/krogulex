@@ -4,7 +4,7 @@
 <h3>🌟 About me:</h3>
 I embarked on my front-end development journey just a year ago, and ever since then, I've been hooked. The world of web development fascinates me, and I love the process of turning ideas into beautiful, functional websites. With a strong foundation in HTML, CSS, and JavaScript, I'm constantly expanding my skill set and staying up-to-date with the latest trends and technologies.
 
-<h3>🚀 Currently learning: <strong>node.js</strong></h3>
+<h3>🚀 Currently learning: <strong>node.js</strong> and TypeScript</h3>
 I'm Exploring the endless possibilities of Node.js to become <strong>full stack developer</strong>.
 
  <h3>📫 Let's Connect: <a style="margin-left: 7px" href="https://www.linkedin.com/in/maciej-krogulski/"><img style="margin-right: 7px" title="HTML5" alt="HTML5" width="16px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" /> LinkedIN</a>.</h3>
